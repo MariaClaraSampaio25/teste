@@ -1,0 +1,5 @@
+body{background-color: aqua; color: white;} 
+/* comando para definir a cor do site e as cores dos texto */
+header {background-color: black; color: brown;}
+/* comando para mudar apenas a cor do cabeçalho do site */
+img {width: 10%;}
